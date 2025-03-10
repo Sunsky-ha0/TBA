@@ -1,2 +1,2 @@
-# TBA
-Electronic Structure Calculations by Means of Tight-binding Approximation.
+# TBA: Electronic Structure Calculations via TBA
+For many materials, the electronic structure near Ferimi energy can be obtained by means of tight-binding approximations. Unlike DFT, which deals with the full electronic structure density, TBA considers the electronic wavefunctions as localized atomic-like orbitals. Tight-binding models not only have the ability to achieve high accuracy like DFT but also have lower computational cost. Here, I show some basic examples that I encountered during my study on TBA.
